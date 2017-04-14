@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ülke seçiniz</string>
+    <string-array name="arrCountries">
+        <item>Türkiye</item>
+        <item>Almanya</item>
+        <item>KKTC</item>
+
+    </string-array>
+</resources>
